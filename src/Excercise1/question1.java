@@ -1,7 +1,7 @@
 package Excercise1;
 
 import java.util.Scanner;
-
+// Enter 3 numbers from the user & make a function to print their average.
 public class question1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
